@@ -3,9 +3,9 @@
 	"id": "toffys_better_placements",
 	"version": "${version}",
 	"name": "Toffy's Better Placements",
-	"description": "This is an example description! Tell everyone what your mod is about!",
+	"description": "Inverts the direction of placed directional blocks while sneaking",
 	"authors": [
-		"Me!"
+		"FloffyToffy https://modrinth.com/user/FloffyToffy"
 	],
 	"contact": {
 		"homepage": "https://fabricmc.net/",

@@ -1,14 +1,32 @@
 {
-	"required": true,
-	"package": "toffys.toffys_better_placements.mixin",
-	"compatibilityLevel": "JAVA_21",
-	"mixins": [
-		"ExampleMixin"
-	],
-	"injectors": {
-		"defaultRequire": 1
-	},
-	"overwrites": {
-		"requireAnnotations": true
+  "required": true,
+  "package": "toffys.toffys_better_placements.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "mixins": [
+    "AbstractFurnaceBlockMixin",
+    "BannerBlockMixin",
+    "BarrelBlockMixin",
+    "BeehiveBlockMixin",
+    "CarvedPumpkinBlockMixin",
+    "ChestBlockMixin",
+    "ChiseledBookshelfBlockMixin",
+    "CrafterBlockMixin",
+    "DiodeBlockMixin",
+    "DispenserBlockMixin",
+    "DoorBlockMixin",
+    "EndRodBlockMixin",
+    "HopperBlockMixin",
+    "LecternBlockMixin",
+    "LightningRodBlockMixin",
+    "LoomBlockMixin",
+    "ObserverBlockMixin",
+    "PistonBaseBlockMixin",
+    "TrapDoorBlockMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  },
+  "overwrites": {
+    "requireAnnotations": true
 	}
 }
